@@ -7,3 +7,15 @@ describe "#plus_two" do
 	end
 
 end
+def plus_two(num)
+	num + 2
+	
+	 
+end
+
+def plus_zero(num)
+	num + 0 
+end
+def plus_three(num)
+	num + 3
+end
